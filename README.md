@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Azar and I'm a Mobile developer.
 
-[![Linkedin: azarabishov](https://img.shields.io/badge/-Azar Abishov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/azarabishov/)](https://www.linkedin.com/in/azarabishov/)    ![ViewCount](https://komarev.com/ghpvc/?username=Azer3012&color=1A4730)
+[![Linkedin: azarabishov](https://img.shields.io/badge/-AzarAbishov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/azarabishov/)](https://www.linkedin.com/in/azarabishov/)    ![ViewCount](https://komarev.com/ghpvc/?username=Azer3012&color=1A4730)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Azer3012?label=follow&style=social)](https://github.com/Azer3012)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer3012&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
