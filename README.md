@@ -7,7 +7,7 @@ My name is Azar and I'm a Mobile developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer3012&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azer3012&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azer3012&theme=dark)](https://git.io/streak-stats)<br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Azer3012&theme=onedark&margin-w=5&rank=C,B,A,AA,AAA,S,SS,SSS&)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
 
 ### Languages and Tools
 
