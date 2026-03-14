@@ -16,7 +16,7 @@ My name is Azar and I'm a Mobile developer.
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://developer.android.com/studio/images/studio-icon.svg" />
-<img align="left" alt="Expo" width="26px" src="https://static.cdnlogo.com/logos/e/34/expo.svg" />
+<img align="left" alt="Expo" width="26px" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" />
 
 <!-- Languages -->
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -32,7 +32,7 @@ My name is Azar and I'm a Mobile developer.
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Supabase" width="26px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
+<img align="left" alt="Supabase" width="26px" src="https://cdn.worldvectorlogo.com/logos/supabase.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 
 <!-- Tools -->
